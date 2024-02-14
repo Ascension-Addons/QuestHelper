@@ -15,7 +15,7 @@ local classlookup = {
   ["WARLOCK"] = "L",
   ["WARRIOR"] = "W",
 
-  ["HERO"] = "H",
+  ["HERO"] = "HE",
 
   ["BARBARIAN"] = "B",
   ["WITCHDOCTOR"] = "WD",
@@ -38,8 +38,6 @@ local classlookup = {
   ["REAPER"] = "RE",
   ["WILDWALKER"] = "WIL",
   ["SPIRITMAGE"] = "SPI",
-  ["HERO"] = "D" -- same as druid
-
 };
 
 local racelookup = {
